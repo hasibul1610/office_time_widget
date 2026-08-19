@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Env
+venv/
+.env
+
+# Build
+build/
+dist/
+
+# PyInstaller
+# *.spec
+
+# Database
+*.db
+*.sqlite
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Temp
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Testing
+.pytest_cache/
+
+# Reports
+exports/
